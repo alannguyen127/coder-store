@@ -1,6 +1,5 @@
 import React from "react";
-// import Typography from "@mui/material/Typography";
-// import { Link } from "@mui/material";
+
 import { BrowserRouter } from "react-router-dom";
 import Router from "./routes";
 import { AuthProvider } from "./contexts/AuthContext";
